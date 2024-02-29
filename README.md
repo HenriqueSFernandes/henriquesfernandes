@@ -17,3 +17,13 @@ Bsc in Informatics and Computer Engineering @ FEUP
 <a href="http://www.github.com/HenriqueSFernandes"><img src="https://github-readme-stats.vercel.app/api?username=HenriqueSFernandes&show_icons=true&hide=&count_private=true&title_color=74c7ec&text_color=cdd6f4&icon_color=74c7ec&bg_color=11111b&hide_border=true&show_icons=true" alt="HenriqueSFernandes's GitHub stats" /></a>
 
 <a href="http://www.github.com/HenriqueSFernandes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueSFernandes&stroke=cdd6f4&background=11111b&ring=74c7ec&fire=74c7ec&currStreakNum=cdd6f4&currStreakLabel=74c7ec&sideNums=cdd6f4&sideLabels=cdd6f4&dates=cdd6f4&hide_border=true" /></a>
+
+## College Projects
+
+| UC   | Name                                                                                    | Grade        | Description                                                           | Semester        |
+| ---- | --------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------- | --------------- |
+| PROG | [Image Manipulation](https://github.com/HenriqueSFernandes/Image-Manipulation-Prog)     | 20$_{/20}$   | Simple image manipulation program written in C++                      | $1^{st} year, 2^{nd} semester$ |
+| AED  | [Schedule Manager](https://github.com/HenriqueSFernandes/AED-ScheduleManager)           | 19.9$_{/20}$ | College schedule manager written in C++ using several data structures | $2^{nd} year, 1^{st} semester$ |
+| AED  | [Air Traffic Manager](https://github.com/HenriqueSFernandes/AED-FlightManagementSystem) | 19.9$_{/20}$ | Flight management system in C++ using graph algorithms                | $2^{nd} year, 1^{st} semester$ |
+| LDTS | [Wolfenstein Mock](https://github.com/HenriqueSFernandes/wolfensteinmock)               | 19.1$_{/20}$ | 3D Game in Java using a raycasting engine                             | $2^{nd} year, 1^{st} semester$ |
+
