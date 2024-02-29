@@ -22,7 +22,7 @@ Bsc in Informatics and Computer Engineering @ FEUP
 
 | UC   | Name                                                                                    | Grade        | Description                                                           | Semester        |
 | ---- | --------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------- | --------------- |
-| PROG | [Image Manipulation](https://github.com/HenriqueSFernandes/Image-Manipulation-Prog)     | 20$_{/20}$   | Simple image manipulation program written in C++                      | $1^{st} year, 2^{nd} semester$ |
+| PROG | [Image Manipulation](https://github.com/HenriqueSFernandes/Image-Manipulation-Prog)     | $20_{/20}$   | Simple image manipulation program written in C++                      | $1^{st} year, 2^{nd} semester$ |
 | AED  | [Schedule Manager](https://github.com/HenriqueSFernandes/AED-ScheduleManager)           | 19.9$_{/20}$ | College schedule manager written in C++ using several data structures | $2^{nd} year, 1^{st} semester$ |
 | AED  | [Air Traffic Manager](https://github.com/HenriqueSFernandes/AED-FlightManagementSystem) | 19.9$_{/20}$ | Flight management system in C++ using graph algorithms                | $2^{nd} year, 1^{st} semester$ |
 | LDTS | [Wolfenstein Mock](https://github.com/HenriqueSFernandes/wolfensteinmock)               | 19.1$_{/20}$ | 3D Game in Java using a raycasting engine                             | $2^{nd} year, 1^{st} semester$ |
