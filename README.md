@@ -12,7 +12,7 @@ Bsc in Informatics and Computer Engineering @ FEUP
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,javascript,flutter,firebase,git,linux,py,sqlite,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,javascript,flutter,firebase,git,linux,py,sqlite,java,php&theme=dark)](https://skillicons.dev)
 
 ### Stats
 
