@@ -6,15 +6,20 @@ Bsc in Informatics and Computer Engineering @ FEUP
 - ✉️ You can contact me at [henriquesardofernandes@gmail.com](mailto:henriquesardofernandes@gmail.com)
 
 ### Socials
-
-<p align="left"> <a href="https://www.github.com/HenriqueSFernandes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/-henriquesfernandes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<div>
+  <a href="https://www.github.com/HenriqueSFernandes">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark">
+  </a>
+  <a href="https://www.linkedin.com/in/-henriquesfernandes/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark">
+  </a>
+<div>
 
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,javascript,ts,flutter,firebase,git,linux,py,sqlite,java,PHP,firebase&theme=dark)](https://skillicons.dev)
 
 ### Tools
-
 
 [![My Tools](https://skillicons.dev/icons?i=vscode,neovim,clion,idea,phpstorm,rider,androidstudio,obsidian&theme=dark)](https://skillicons.dev)
 
