@@ -5,6 +5,9 @@ Bsc in Informatics and Computer Engineering @ FEUP
 - 🌍 I'm based in Portugal
 - ✉️ You can contact me at [henriquesardofernandes@gmail.com](mailto:henriquesardofernandes@gmail.com)
 
+> Since I was very young, I have had a great interest in software engineering and the way technology transforms the world around us. I am currently in the 2nd year of the Bsc in Informatics and Computing Engineering at FEUP, where I have the opportunity to deepen my knowledge and skills in the area.
+I have worked with several technologies, namely developing mobile apps with flutter and firebase, frontend and backend web development and databases.
+
 ### Socials
 
 <div>
@@ -18,7 +21,12 @@ Bsc in Informatics and Computer Engineering @ FEUP
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,javascript,ts,flutter,firebase,git,linux,py,sqlite,java,PHP,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,javascript,ts,flutter,firebase,git,linux,py,sqlite,java,PHP,firebase,arch&theme=dark)](https://skillicons.dev)
+
+### Currently learning 
+
+[![Learning](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+
 
 ### Tools
 
