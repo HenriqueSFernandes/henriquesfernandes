@@ -25,7 +25,7 @@ I have worked with several technologies, namely developing mobile apps with flut
 
 ### Currently learning 
 
-[![Learning](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,nodejs,deno,mongodb,graphql&theme=dark)](https://skillicons.dev)
 
 
 ### Tools
