@@ -21,7 +21,7 @@ I have worked with several technologies, namely developing mobile apps with flut
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,javascript,ts,flutter,firebase,git,linux,py,sqlite,java,PHP,arch&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,javascript,ts,flutter,firebase,git,linux,py,sqlite,java,PHP&theme=dark)](https://skillicons.dev)
 
 ### Currently learning 
 
