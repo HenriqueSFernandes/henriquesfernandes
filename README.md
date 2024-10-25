@@ -8,7 +8,7 @@ Bsc in Informatics and Computer Engineering @ FEUP
 > Since I was very young, I have had a great interest in software engineering and the way technology transforms the world around us. I am currently in the 3rd year of the Bsc in Informatics and Computing Engineering at FEUP, where I have the opportunity to deepen my knowledge and skills in the area.
 I have worked with several technologies, namely developing mobile apps with flutter and firebase, frontend and backend web development and databases.
 
-### Socials
+### Socials:
 
 <div>
   <a href="https://www.github.com/HenriqueSFernandes">
@@ -19,16 +19,22 @@ I have worked with several technologies, namely developing mobile apps with flut
   </a>
 <div>
 
-### Skills
+### Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,javascript,ts,flutter,firebase,git,linux,py,sqlite,java,PHP&theme=dark)](https://skillicons.dev)
 
-### Currently learning 
+### Currently learning:
+
+#### Web Dev
 
 [![Learning](https://skillicons.dev/icons?i=laravel,nodejs,deno,mongodb,postgresql,graphql&theme=dark)](https://skillicons.dev)
 
+#### DevOps
 
-### Tools
+[![Learning](https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,jenkins&theme=dark)](https://skillicons.dev)
+
+
+### Tools:
 
 [![My Tools](https://skillicons.dev/icons?i=vscode,neovim,clion,idea,phpstorm,rider,androidstudio,obsidian&theme=dark)](https://skillicons.dev)
 
