@@ -5,8 +5,7 @@ Bsc in Informatics and Computer Engineering @ FEUP
 - 🌍 I'm based in Aveiro & Porto, Portugal
 - ✉️ You can contact me at [henriquesardofernandes@gmail.com](mailto:henriquesardofernandes@gmail.com)
 
-> Since I was very young, I have had a great interest in software engineering and the way technology transforms the world around us. I am currently in the 3rd year of the Bsc in Informatics and Computing Engineering at FEUP, where I have the opportunity to deepen my knowledge and skills in the area.
-I have worked with several technologies, namely developing mobile apps with flutter and firebase, frontend and backend web development and databases.
+> Since I was very young, I've had a great interest in software engineering and the transformative power of technology in our world. Currently, I’m in my third year of the BSc in Informatics and Computing Engineering at FEUP, where I’m fortunate to deepen my skills and knowledge in this field. I’ve worked with various technologies, including mobile app development with Flutter and Firebase, front-end and back-end web development, and database management. However, my true passion lies in servers, infrastructure, networking, and DevOps, where I enjoy learning and building resilient and efficient systems that support modern applications.
 
 ### Socials:
 
