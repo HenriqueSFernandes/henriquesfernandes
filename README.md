@@ -35,7 +35,7 @@ Bsc in Informatics and Computer Engineering @ FEUP
 
 ### Tools:
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,neovim,clion,idea,phpstorm,rider,androidstudio,obsidian&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=neovim,neovim,clion,idea,phpstorm,rider,androidstudio,obsidian&theme=dark)](https://skillicons.dev)
 
 ### Stats
 
