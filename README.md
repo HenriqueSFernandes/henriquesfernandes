@@ -20,13 +20,13 @@ Bsc in Informatics and Computer Engineering @ FEUP
 
 ### Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,javascript,ts,flutter,firebase,git,linux,py,sqlite,java,PHP&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,javascript,ts,flutter,firebase,git,linux,py,sqlite,java,php,laravel,postgresql&theme=dark)](https://skillicons.dev)
 
 ### Currently learning:
 
-#### Web Dev
+#### Intership (at [Armis Group](https://www.armis.pt/), using Microsoft technologies)
 
-[![Learning](https://skillicons.dev/icons?i=laravel,nodejs,deno,mongodb,postgresql,graphql&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=azure,cs,dotnet&theme=dark)](https://skillicons.dev)
 
 #### DevOps
 
@@ -34,7 +34,7 @@ Bsc in Informatics and Computer Engineering @ FEUP
 
 ### Tools:
 
-[![My Tools](https://skillicons.dev/icons?i=neovim,vscode,clion,idea,phpstorm,rider,androidstudio,obsidian&theme=dark)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=neovim,vscode,obsidian&theme=dark)](https://skillicons.dev)
 
 ### Stats
 
