@@ -30,7 +30,7 @@ Bsc in Informatics and Computer Engineering @ FEUP
 
 #### DevOps
 
-[![Learning](https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,jenkins&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,jenkins,githubactions&theme=dark)](https://skillicons.dev)
 
 ### Tools:
 
