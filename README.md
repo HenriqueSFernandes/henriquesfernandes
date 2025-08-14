@@ -48,7 +48,12 @@ Bsc in Informatics and Computer Engineering @ FEUP
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueSFernandes&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+## Side Projects
+
+| Name | Description | Tech Stack |
+| --- | --- | --- |
+| [CherryPick](https://github.com/HenriqueSFernandes/CherryPick) | Cross-format recommendation platform that takes a book, movie, show, or album you love and matches it with complementary picks from other media to capture the same vibe. Developed for the ShiftAPPens 2025 Hackathon. | Next.js, Express, Appwrite |
+| [ClipNest](https://github.com/HenriqueSFernandes/ClipNest) | AI-powered bookmarking tool that organizes saved webpages into project folders, extracts and indexes their content, and lets you conversationally search and explore them through a contextual chatbot. | Next.js, Elysia.js |
 
 ## College Projects
 
