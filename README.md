@@ -5,7 +5,7 @@ Bsc in Informatics and Computer Engineering @ FEUP
 - 🌍 I'm based in Aveiro & Porto, Portugal
 - ✉️ You can contact me at [henriquesardofernandes@gmail.com](mailto:henriquesardofernandes@gmail.com)
 
-> Since I was very young, I've had a great interest in software engineering and the transformative power of technology in our world. I hold a BSc in Informatics and Computing Engineering from FEUP and will begin an MSc in the same field in October, where I will further develop my skills and knowledge in the field. I’ve worked with various technologies, including mobile app development with Flutter and Firebase, front-end and back-end web development, and database management. However, my true passion lies in servers, infrastructure, networking, and DevOps, where I enjoy learning and building resilient and efficient systems that support modern applications.
+> Since I was very young, I've had a great interest in software engineering and the transformative power of technology in our world. I hold a BSc in Informatics and Computing Engineering from FEUP, and I'm currently enrolled in the MSc in the same field, where I'm further developing my skills and knowledge in the field. I’ve worked with various technologies, including mobile app development with Flutter and Firebase, front-end and back-end web development, and database management. However, my true passion lies in servers, infrastructure, networking, and DevOps, where I enjoy learning and building resilient and efficient systems that support modern applications.
 
 ![](https://komarev.com/ghpvc/?username=HenriqueSFernandes&abbreviated=true&base=600&style=for-the-badge)
 
